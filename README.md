@@ -1,4 +1,12 @@
 # Date-Calculation
+- 🌟 Every Other Day Excel and Power Query Challenges No247🌟 * Author: Omid Motamedisedeh
+ 
+    - Topic: Date Calculation!
+ 
+ 🔰 Generate the dates of the first Monday of each month in 2025.
+ 
+ 🔗 Link to Excel file:
+ 👉 https://lnkd.in/dTsKB4bG
 ```
 from datetime import date, timedelta
 
