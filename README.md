@@ -1,4 +1,6 @@
 # Date-Calculation
+![License: MIT](https://img.shields.io/badge/License-MIT-darkred.svg)
+
 - 🌟 Every Other Day Excel and Power Query Challenges No247🌟 * Author: Omid Motamedisedeh
  
   ## Topic: Date Calculation!
